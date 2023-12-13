@@ -26,14 +26,14 @@
             <span><strong>Django</strong></span><br><br><br>
             <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
         </td>
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
+        <td width="25%" align="center">
+            <span><strong>MySql</strong></span><br><br><br>
+            <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        </td>
+        <td width="25%" align="center">
+            <span><strong>SQL Server</strong></span><br><br><br>
+            <img height="64px" src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png">
+        </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -41,26 +41,30 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
         <span><strong>Power Bi</strong></span><br><br><br>
         <img height="64px" src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_power-bi-pro---icono/im_power-bi-pro---icono.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Excel</strong></span><br><br><br>
         <img height="64px" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_36x36_2x?fmt=png-alpha">
+      </td>
+        <td width="25%" align="center">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+            <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
   </tbody>
