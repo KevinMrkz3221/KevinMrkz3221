@@ -72,7 +72,7 @@
 
 <p align="center">
   <br/>
-  <a href="www.linkedin.com/in/kevin-rosales-data">
+  <a href="https://www.linkedin.com/in/kevin-rosales-data">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
