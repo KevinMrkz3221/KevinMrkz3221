@@ -76,9 +76,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/KevinMrkz3221" target="_blank">
+  <a href="https://github.com/KevinMrkz3221" target="_blank" >
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
+  <hr>
+  <a href="https://www.kevinarm.me" style="background-color: #6CB4EE; color: white; padding: 10px; border-radius: 15px; font-size: 15px"> www.kevinarm.me </a>
 
 </p>
 </h1>
